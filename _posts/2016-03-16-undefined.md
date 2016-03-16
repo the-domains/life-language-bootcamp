@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-16T12:09:42.698Z'
-dateModified: '2016-03-16T12:09:33.569Z'
+description: 「語学勉強オタクになっていました。。。」
+datePublished: '2016-03-16T12:19:17.472Z'
+dateModified: '2016-03-16T12:18:17.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 「語学勉強オタクになっていました。。。」
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a48665ce-9fe0-44a4-abee-8ec825666dbc.png)
 
+  
 お客様の声です。 
 
 めぐみさま
