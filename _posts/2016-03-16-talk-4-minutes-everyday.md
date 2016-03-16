@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "これがすごい。\_"
-datePublished: '2016-03-16T12:41:33.956Z'
-dateModified: '2016-03-16T12:41:32.394Z'
+datePublished: '2016-03-16T12:41:49.686Z'
+dateModified: '2016-03-16T12:41:46.910Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
