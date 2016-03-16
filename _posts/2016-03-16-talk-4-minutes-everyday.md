@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "TALK 4 MINUTES EVERYDAY\_"
-datePublished: '2016-03-16T07:26:05.867Z'
-dateModified: '2016-03-16T07:25:57.868Z'
+datePublished: '2016-03-16T12:01:43.513Z'
+dateModified: '2016-03-16T11:10:20.918Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
-published: true
 url: talk-4-minutes-everyday/index.html
 _type: Article
 
