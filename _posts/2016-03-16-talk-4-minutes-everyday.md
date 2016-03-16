@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "TALK 4 MINUTES EVERYDAY\_"
-datePublished: '2016-03-16T12:18:28.579Z'
-dateModified: '2016-03-16T12:10:26.656Z'
+description: "これがすごい。\_"
+datePublished: '2016-03-16T12:33:25.875Z'
+dateModified: '2016-03-16T12:25:55.793Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
@@ -22,9 +22,7 @@ url: talk-4-minutes-everyday/index.html
 _type: Article
 
 ---
-TALK 4 MINUTES EVERYDAY ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64734456-ece9-4c36-acc0-d59062bff301.png)
-
-毎日、同じ時間に電話が来る。 
+## 毎日、同じ時間に電話がきます。 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64734456-ece9-4c36-acc0-d59062bff301.png)
 
 これがすごい。 
 
