@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[LIFE LANGUAGE BOOTCAMP]]></title>
         <description><![CDATA[LIFE LANGUAGE BOOTCAMP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/life-language-bootcamp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 07:26:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 07:36:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/life-language-bootcamp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/life-language-bootcamp/d212f28f-4add-4d3f-b39e-b8b9383a0861/index.html</link>
+            <guid isPermaLink="false">d212f28f-4add-4d3f-b39e-b8b9383a0861</guid>
+            <pubDate>Wed, 16 Mar 2016 07:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TALK 4 MINUTES EVERYDAY </p>]]></description>
-            <link>undefinedtalk-4-minutes-everyday/index.html</link>
+            <link>https://thegrid.ai/life-language-bootcamp/talk-4-minutes-everyday/index.html</link>
             <guid isPermaLink="false">0447974e-fd2e-4e13-a5c0-3d10acc98cc5</guid>
             <pubDate>Wed, 16 Mar 2016 07:26:05 GMT</pubDate>
         </item>
