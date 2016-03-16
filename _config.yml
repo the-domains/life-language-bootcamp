@@ -1,0 +1,28 @@
+name: LIFE LANGUAGE BOOTCAMP
+favicon: null
+layout_spectrum: 0.8220072840340436
+typography_spectrum: 0.016537661897018552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1767522229347378
+  lightness: 0.6727914016228169
+  saturation: 0.4618310718797147
+  rhythmicContrast: 0.8449451541528106
+purpose: []
