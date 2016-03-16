@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "TALK 4 MINUTES EVERYDAY\_"
-datePublished: '2016-03-16T12:10:20.816Z'
-dateModified: '2016-03-16T12:10:10.290Z'
+datePublished: '2016-03-16T12:18:28.579Z'
+dateModified: '2016-03-16T12:10:26.656Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
