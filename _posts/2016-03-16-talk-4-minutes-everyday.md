@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "TALK 4 MINUTES EVERYDAY\_"
-datePublished: '2016-03-16T12:01:43.513Z'
-dateModified: '2016-03-16T11:10:20.918Z'
+datePublished: '2016-03-16T12:10:20.816Z'
+dateModified: '2016-03-16T12:10:10.290Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-talk-4-minutes-everyday.md
@@ -22,7 +22,7 @@ url: talk-4-minutes-everyday/index.html
 _type: Article
 
 ---
-TALK 4 MINUTES EVERYDAY 
+TALK 4 MINUTES EVERYDAY ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64734456-ece9-4c36-acc0-d59062bff301.png)
 
 毎日、同じ時間に電話が来る。 
 
