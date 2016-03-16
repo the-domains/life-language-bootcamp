@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-16T12:42:29.478Z'
-dateModified: '2016-03-16T12:42:26.747Z'
+datePublished: '2016-03-16T12:42:54.626Z'
+dateModified: '2016-03-16T12:42:40.901Z'
 title: "\_フルーエンシーの強化！"
 author: []
 sourcePath: _posts/2016-03-16-44minutes-presentation.md
