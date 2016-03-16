@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T12:19:57.697Z'
-dateModified: '2016-03-16T12:19:57.175Z'
+datePublished: '2016-03-16T12:20:18.353Z'
+dateModified: '2016-03-16T12:19:58.696Z'
 title: "FINAL SESSION\_"
 author: []
 sourcePath: _posts/2016-03-16-final-session.md
@@ -22,4 +22,4 @@ url: final-session/index.html
 _type: Article
 
 ---
-# FINAL SESSION
+# FINAL SESSION ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8033f8-db07-42b9-9490-8ac7266e92bf.png)
